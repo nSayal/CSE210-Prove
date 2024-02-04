@@ -1,0 +1,15 @@
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\bin\Debug\net8.0\Develop02.exe
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\bin\Debug\net8.0\Develop02.deps.json
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\bin\Debug\net8.0\Develop02.runtimeconfig.json
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\bin\Debug\net8.0\Develop02.dll
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\bin\Debug\net8.0\Develop02.pdb
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.AssemblyInfoInputs.cache
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.AssemblyInfo.cs
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.csproj.CoreCompileInputs.cache
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.sourcelink.json
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.dll
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\refint\Develop02.dll
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.pdb
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\Develop02.genruntimeconfig.cache
+C:\Users\Sayal\OneDrive - BYU-Idaho\2024-Winter\cse210\cse210-student-template\prove\Develop02\obj\Debug\net8.0\ref\Develop02.dll
